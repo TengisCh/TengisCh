@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TengisCh
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning .NET, Vue.js & Azure
 
 
 <!---
